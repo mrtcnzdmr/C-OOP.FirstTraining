@@ -1,0 +1,6 @@
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Conditionals\obj\Debug\Conditionals.pdb

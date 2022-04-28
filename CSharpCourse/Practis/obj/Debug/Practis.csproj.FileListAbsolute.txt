@@ -1,0 +1,7 @@
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Practis\bin\Debug\Practis.exe.config
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Practis\bin\Debug\Practis.exe
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Practis\bin\Debug\Practis.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Practis\obj\Debug\Practis.csproj.AssemblyReference.cache
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Practis\obj\Debug\Practis.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Practis\obj\Debug\Practis.exe
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Practis\obj\Debug\Practis.pdb

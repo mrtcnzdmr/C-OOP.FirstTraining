@@ -1,0 +1,7 @@
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Arrays\bin\Debug\Arrays.exe
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Arrays\bin\Debug\Arrays.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Arrays\obj\Debug\Arrays.exe
+C:\Users\dooms\OneDrive\Masaüstü\Engin Demiroğ C#\CSharpCourse\Arrays\obj\Debug\Arrays.pdb
